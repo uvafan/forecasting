@@ -1,2 +1,2 @@
-# metaculus
-Code I wrote for making metaculus predictions
+# Forecasting
+Code I wrote for making predictions
